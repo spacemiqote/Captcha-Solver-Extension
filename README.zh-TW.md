@@ -16,6 +16,9 @@ __支援/已測試的瀏覽器：__
 用戶友好且無縫集成。輕量級且高性能。  
 開源：可查看、修改和分發代碼庫。
 
+## 📥 從Chrome線上應用程式商店安裝
+*即將推出*
+
 ## 📥 從源代碼安裝
 克隆代碼庫
 1. `git clone https://github.com/spacemiqote/Captcha-Solver-Extension.git`

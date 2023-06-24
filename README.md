@@ -9,12 +9,16 @@ __Supported/Tested Browsers:__
 ## 🚀 Introduction
 Introducing Captcha-Solver-Extension, an innovative browser extension designed to seamlessly solve CAPTCHAs on eportal websites.  
 With the power of machine learning at its core, this extension ensures a hassle-free and user-friendly experience.  
-It automates the process of solving CAPTCHAs, which often pose a hurdle for users.
+It automates the process of solving CAPTCHAs, which often pose a hurdle for users.  
+![Extension Image](https://raw.githubusercontent.com/spacemiqote/Captcha-Solver-Extension/main/extension.png)
 
 ## 🌟 Features
 Automatic CAPTCHA solving on eportal websites. Uses advanced machine learning architecture for accurate solving.  
 User-friendly and seamless integration. Lightweight and high-performance.  
 Open Source: View, modify, and distribute the codebase.  
+
+## 📥 Installation from Chrome Web Store
+*Coming soon!*
 
 ## 📥 Installation from source
 Clone the repository

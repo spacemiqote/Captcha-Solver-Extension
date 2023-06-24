@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "台中科技大學視障驗證碼解決方案",
+    "description": "一款用於台中科技大學的Eportal登入介面的自動辨識驗證碼擴展，簡化視障學生的無障礙體驗。",
+    "version": "1.5",
+    "permissions": [
+        "activeTab", "webNavigation"
+    ],
+    "icons": {
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    },
+    "content_scripts": [
+        {
+			"matches": ["http://sso.nutc.edu.tw/eportal/*", "https://sso.nutc.edu.tw/eportal/*"],
+            "js": ["scripts/content.js"]
+        }
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_security_policy": {
+        "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self';"
+    }
+}

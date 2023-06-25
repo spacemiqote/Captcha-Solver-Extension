@@ -17,8 +17,8 @@ Automatic CAPTCHA solving on eportal website. Uses advanced machine learning arc
 User-friendly and seamless integration. Lightweight and high-performance.  
 Open Source: View, modify, and distribute the codebase.  
 
-## 📥 Installation from Chrome Web Store
-![Chrome Web Store](https://chrome.google.com/webstore/detail/%E5%8F%B0%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E8%A6%96%E9%9A%9C%E9%A9%97%E8%AD%89%E7%A2%BC%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/lmnflgkjkcfefgldfgjaecohagjbmaep)
+## 📥 Installation from Chrome Web Store ![Chrome Web Store](ChromeWebStore.png)
+[Chrome Web Store Link](https://chrome.google.com/webstore/detail/%E5%8F%B0%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E8%A6%96%E9%9A%9C%E9%A9%97%E8%AD%89%E7%A2%BC%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/lmnflgkjkcfefgldfgjaecohagjbmaep)
 
 ## 📥 Installation from Microsoft Edge Add-ons
 *Coming soon!*

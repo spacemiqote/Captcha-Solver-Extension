@@ -16,8 +16,11 @@ __支援/已測試的瀏覽器：__
 用戶友好且無縫集成。輕量級且高性能。  
 開源：可查看、修改和分發代碼庫。
 
+## 📥 從Chrome線上應用程式商店安裝 ![Chrome線上應用程式商店](ChromeWebStore.png)
+[Chrome線上應用程式商店連結](https://chrome.google.com/webstore/detail/%E5%8F%B0%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E8%A6%96%E9%9A%9C%E9%A9%97%E8%AD%89%E7%A2%BC%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/lmnflgkjkcfefgldfgjaecohagjbmaep)
+
 ## 📥 從Chrome線上應用程式商店安裝
-*即將推出*
+*即將推出!*
 
 ## 📥 從源代碼安裝
 克隆代碼庫

@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "台中科技大學視障驗證碼解決方案",
-    "description": "一款用於台中科技大學的Eportal登入介面的自動辨識驗證碼擴展，簡化視障學生的無障礙體驗。",
+    "name": "臺中科技大學視障驗證碼解決方案",
+    "description": "一款用於臺中科技大學的Eportal登入介面的自動辨識驗證碼擴展，簡化視障學生的無障礙體驗。",
     "version": "1.6",
     "permissions": [
         "webNavigation"

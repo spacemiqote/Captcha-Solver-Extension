@@ -14,10 +14,8 @@
     "content_scripts": [
         {
 	    "matches": [
-                "http://sso.nutc.edu.tw/eportal/*",
-                "https://sso.nutc.edu.tw/eportal/*",
-                "http://sso.nutc.edu.tw/ePortal/*",
-                "https://sso.nutc.edu.tw/ePortal/*"
+                "http://sso.nutc.edu.tw/*",
+                "https://sso.nutc.edu.tw/*"
             ],
             "js": ["scripts/content.js"]
         }

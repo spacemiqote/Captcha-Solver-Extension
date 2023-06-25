@@ -1,4 +1,12 @@
+function isEportalUrl(url) {
+    const eportalPattern = /eportal/i;
+    return eportalPattern.test(url);
+}
+
 function captureAndSendCaptcha() {
+    if (!isEportalUrl(window.location.href)) {
+        return;
+    }
     var xpath = "/html/body/div[1]/div[2]/form/div[3]/table/tbody/tr[1]/td/table/tbody/tr[3]/td[1]/img";
     var element = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
 

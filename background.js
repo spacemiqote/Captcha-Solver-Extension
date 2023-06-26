@@ -1,6 +1,6 @@
 importScripts(chrome.runtime.getURL('scripts/tf.es2017.js'));
 
-const CHARACTERS = '0123456789abcdefghijklmnopqrstuvwxyz';
+const CHARACTERS = '123456789abcdefghijkmnopqrstuvwxyz';
 
 let tfmodel;
 

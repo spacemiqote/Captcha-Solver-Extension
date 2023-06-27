@@ -1,5 +1,6 @@
 # Accessible CAPTCHA Solution for Visually Impaired Students at National Taichung University of Science and Technology
-[中文](./README.zh-TW.md) | English
+[中文](./README.zh-TW.md) | English  
+__Please read this [first](https://www.enable.org.tw/news/detailType3/603)__
 
 __Supported/Tested Browsers:__
 * [Microsoft Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ&ch): `Version 114.0.1823.43 (Official Build) (64-bit)`  

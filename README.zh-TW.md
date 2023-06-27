@@ -1,5 +1,6 @@
 # 為國立臺中科技大學視障學生提供的無障礙驗證碼解決方案
 中文 | [English](README.md)  
+__請讀[(構想來源)](https://www.enable.org.tw/news/detailType3/603)__  
 __支援/已測試的瀏覽器：__
 * [Microsoft Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ&ch): `版本 114.0.1823.43 (官方版本) (64位元)`
 * [Brave 瀏覽器](https://brave.com/): `版本 1.55.2 Chromium: 115.0.5790.32 (官方版本) 每日更新 (64位元)`

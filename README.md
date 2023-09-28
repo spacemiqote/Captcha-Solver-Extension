@@ -1,5 +1,5 @@
-# Accessible CAPTCHA Solution for Visually Impaired Students at National Taichung University of Science and Technology
-[中文](./README.zh-TW.md) | English  
+# Accessible CAPTCHA Solution for Visually Impaired Students at the National Taichung University of Science and Technology
+
 __Please read this [first](https://www.enable.org.tw/news/detailType3/603)__
 
 __Supported/Tested Browsers:__
@@ -22,7 +22,7 @@ Open Source: View, modify, and distribute the codebase.
 [Chrome Web Store Link](https://chrome.google.com/webstore/detail/%E5%8F%B0%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E8%A6%96%E9%9A%9C%E9%A9%97%E8%AD%89%E7%A2%BC%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/lmnflgkjkcfefgldfgjaecohagjbmaep)
 
 ## 📥 Installation from Microsoft Edge Add-ons
-*Coming soon!*
+[Microsoft Edge Add-ons Link](https://microsoftedge.microsoft.com/addons/detail/%E8%87%BA%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E8%A6%96%E9%9A%9C%E9%A9%97%E8%AD%89%E7%A2%BC%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/ofhbdgiopdjnkomegmlcaacepncbpfec)
 
 ## 📥 Installation from source
 Clone the repository
